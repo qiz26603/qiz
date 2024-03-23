@@ -1,1 +1,1 @@
-# qiz_qbot
+# qiz
